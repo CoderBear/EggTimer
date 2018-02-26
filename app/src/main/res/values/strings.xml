@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Egg Timer</string>
+    <string name="egg_description">A brown egg</string>
+    <string name="timer_button_text">GO</string>
 </resources>
